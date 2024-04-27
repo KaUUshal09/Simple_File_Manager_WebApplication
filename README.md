@@ -5,12 +5,17 @@ This is a simple file manager web application built using Express.js and EJS tem
 Features
 
 Create new text files with a title and details
+
 View existing text files
+
 Minimalist interface for easy file management
 
 Technologies Used
 
 Express.js
+
 EJS (Embedded JavaScript) templates
+
 Node.js
+
 HTML/CSS (Tailwind CSS)
