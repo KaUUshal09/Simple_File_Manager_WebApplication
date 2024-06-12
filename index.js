@@ -5,7 +5,6 @@ const fs = require('fs')
 
 app.use(express.json())
 app.use(express.urlencoded({extends:true}))
-app.use(express.static(path.join(__dirname,'public')))
 app.set('view engine','ejs')
 
 app.get('/',function(req,res){
